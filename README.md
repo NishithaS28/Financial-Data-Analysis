@@ -36,16 +36,6 @@ The model achieved the following metrics:
 These results demonstrate that the LSTM model effectively predicts stock prices with high accuracy.
 
 
-## Output Visualizations
-
-### Stock Closing Price Over Time
-![Stock Closing Price](outputs/closing_price.png)
-
-### Moving Averages
-![Moving Averages](outputs/moving_averages.png)
-
-### Predicted vs Actual Stock Prices
-![LSTM Predictions](outputs/lstm_predictions.png)
 
 
 ### Key Takeaways
