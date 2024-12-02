@@ -36,6 +36,8 @@ The model achieved the following metrics:
 These results demonstrate that the LSTM model effectively predicts stock prices with high accuracy.
 
 
+## Run the Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/YourRepoName/blob/main/Untitled5.ipynb)
 
 
 ### Key Takeaways
