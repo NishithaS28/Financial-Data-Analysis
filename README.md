@@ -12,16 +12,18 @@ This project uses Python to analyze and predict stock prices based on historical
 2. **Deep Learning Prediction**: Predicts stock prices using LSTM.
 3. **Visualizations**: Plots closing prices, moving averages, and prediction trends.
 
+
 ## Output Visualizations
 
 ### Stock Closing Price Over Time
-![Stock Closing Price](https://github.com/YourUsername/Stock-Price-Prediction-Using-LSTM/blob/main/closing_price.png)
+![Stock Closing Price](./closing_price.png)
 
 ### Moving Averages
-![Moving Averages](https://github.com/YourUsername/Stock-Price-Prediction-Using-LSTM/blob/main/moving_averages.png)
+![Moving Averages](./moving_averages.png)
 
 ### Predicted vs Actual Stock Prices
-![LSTM Predictions](https://github.com/YourUsername/Stock-Price-Prediction-Using-LSTM/blob/main/lstm_predictions.png)
+![LSTM Predictions](./lstm_predictions.png)
+
 
 ## Results
 
