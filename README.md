@@ -27,4 +27,18 @@ pip install -r requirements.txt
 - Optimize the LSTM model for better accuracy.
 - Extend predictions to real-time data.
 
+## Results
+The model achieved the following metrics:
+- **Mean Squared Error (MSE)**: 162.69
+- **Mean Absolute Error (MAE)**: 10.39
+- **R² Score**: 0.943
+
+These results demonstrate that the LSTM model effectively predicts stock prices with high accuracy.
+
+### Key Takeaways
+- The model is capable of forecasting future stock prices based on historical trends.
+- Predicted prices closely align with actual values, making the model suitable for financial analysis.
+
+
+
 **Disclaimer**: This project is for educational purposes only and should not be used for financial decision-making.
